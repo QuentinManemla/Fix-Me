@@ -1,0 +1,999 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9debfa50-df50-488c-bd7f-3ba0caacd8d2" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/fix-me-router/target/" />
+    <ignored path="$PROJECT_DIR$/fix-me-broker/target/" />
+    <ignored path="$PROJECT_DIR$/fix-me-market/target/" />
+    <ignored path="$PROJECT_DIR$/fix-me-core/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="606159783">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="22" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.19" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.21" value="1" />
+          <entry key="project.open.time.24" value="1" />
+          <entry key="project.open.time.26" value="1" />
+          <entry key="project.open.time.30" value="1" />
+          <entry key="project.open.time.31" value="1" />
+          <entry key="project.open.time.57" value="2" />
+          <entry key="project.open.time.6" value="2" />
+          <entry key="project.open.time.61" value="2" />
+          <entry key="project.open.time.62" value="2" />
+          <entry key="project.open.time.63" value="1" />
+          <entry key="project.open.time.64" value="2" />
+          <entry key="project.open.time.68" value="2" />
+          <entry key="project.open.time.69" value="1" />
+          <entry key="project.open.time.70" value="2" />
+          <entry key="project.open.time.71" value="1" />
+          <entry key="project.open.time.74" value="2" />
+          <entry key="project.open.time.75" value="1" />
+          <entry key="project.opened" value="28" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="101" />
+          <entry key="xml" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="101" />
+          <entry key="XML" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="29" />
+          <entry key="java" value="15491" />
+          <entry key="xml" value="34" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="15491" />
+          <entry key="PLAIN_TEXT" value="29" />
+          <entry key="XML" value="34" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="FixMe" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fix-me-broker/src/main/java/com/wethinkcode/fixme/broker/Message/Parser.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="184">
+              <caret line="28" column="57" lean-forward="true" selection-start-line="28" selection-start-column="57" selection-end-line="28" selection-end-column="57" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fix-me-router/src/main/java/com/wethinkcode/fixme/router/Server/ConnectionHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="52" selection-start-line="52" selection-end-line="52" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fix-me-broker/src/main/java/com/wethinkcode/fixme/broker/Handlers/ReadWriteHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="184">
+              <caret line="18" column="12" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="53" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fix-me-router/src/main/java/com/wethinkcode/fixme/router/Attachment/Attachment.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fix-me-router/src/main/java/com/wethinkcode/fixme/router/Server/Server.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fix-me-router/src/main/java/com/wethinkcode/fixme/router/Messages/Parser.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="99">
+              <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="16" selection-end-column="52" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fix-me-core/src/main/java/com/wethinkcode/fixme/core/Core.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/fix-me-market/src/main/java/com/wethinkcode/fixme/market/Handlers/ReadWriteHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="476">
+              <caret line="32" column="5" lean-forward="true" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+              <folding>
+                <element signature="e#1962#1963#0" expanded="true" />
+                <element signature="e#1999#2000#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fix-me-market/src/main/java/com/wethinkcode/fixme/market/Message/Parser.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="161">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fix-me-router/src/main/java/com/wethinkcode/fixme/router/Messages/ReadWriteHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="161">
+              <caret line="28" column="12" selection-start-line="28" selection-start-column="12" selection-end-line="29" selection-end-column="64" />
+              <folding>
+                <element signature="e#1648#1649#0" expanded="true" />
+                <element signature="e#1685#1686#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/fix-me-router/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/FixMe.java" />
+        <option value="$PROJECT_DIR$/fix-me-router/src/main/java/com/wethinkcode/fixme/router/Connection/ConnectionHandler.java" />
+        <option value="$PROJECT_DIR$/fix-me-broker/src/main/java/com/wethinkcode/fixme/broker/Messages/ReadWriteHandler.java" />
+        <option value="$PROJECT_DIR$/fix-me-broker/src/main/java/com/wethinkcode/fixme/broker/Messages/Message.java" />
+        <option value="$PROJECT_DIR$/fix-me-broker/src/main/java/com/wethinkcode/fixme/broker/Messages/Messages.java" />
+        <option value="$PROJECT_DIR$/fix-me-broker/src/main/java/com/wethinkcode/fixme/broker/Handlers/ConnectionHandler.java" />
+        <option value="$PROJECT_DIR$/fix-me-router/src/main/java/com/wethinkcode/fixme/router/Server/Server.java" />
+        <option value="$PROJECT_DIR$/fix-me-broker/pom.xml" />
+        <option value="$PROJECT_DIR$/fix-me-market/pom.xml" />
+        <option value="$PROJECT_DIR$/fix-me-router/src/main/java/com/wethinkcode/fixme/router/Attachment/Attachment.java" />
+        <option value="$PROJECT_DIR$/fix-me-market/src/main/java/com/wethinkcode/fixme/market/Attachment/Attachment.java" />
+        <option value="$PROJECT_DIR$/fix-me-broker/src/main/java/com/wethinkcode/fixme/broker/Attachment/Attachment.java" />
+        <option value="$PROJECT_DIR$/fix-me-router/src/main/java/com/wethinkcode/fixme/router/Messages/Parser.java" />
+        <option value="$PROJECT_DIR$/fix-me-broker/src/main/java/com/wethinkcode/fixme/broker/Handlers/MessageHandler.java" />
+        <option value="$PROJECT_DIR$/fix-me-market/src/main/java/com/wethinkcode/fixme/market/Messages/ReadWriteHandler.java" />
+        <option value="$PROJECT_DIR$/fix-me-core/src/main/java/com/wethinkcode/fixme/core/Message/Message.java" />
+        <option value="$PROJECT_DIR$/fix-me-core/src/main/java/com/wethinkcode/fixme/core/Instrument/Instrument.java" />
+        <option value="$PROJECT_DIR$/fix-me-core/src/main/java/com/wethinkcode/fixme/core/Instrument/InstrumentController.java" />
+        <option value="$PROJECT_DIR$/fix-me-market/src/main/java/com/wethinkcode/fixme/market/Handlers/MarketHandler.java" />
+        <option value="$PROJECT_DIR$/fix-me-router/src/main/java/com/wethinkcode/fixme/router/Messages/Forward.java" />
+        <option value="$PROJECT_DIR$/fix-me-market/src/main/java/com/wethinkcode/fixme/market/Market.java" />
+        <option value="$PROJECT_DIR$/fix-me-broker/src/main/java/com/wethinkcode/fixme/broker/Handlers/BrokerHandler.java" />
+        <option value="$PROJECT_DIR$/fix-me-broker/src/main/java/com/wethinkcode/fixme/broker/Broker.java" />
+        <option value="$PROJECT_DIR$/fix-me-router/src/main/java/com/wethinkcode/fixme/router/Router.java" />
+        <option value="$PROJECT_DIR$/fix-me-broker/src/main/java/com/wethinkcode/fixme/broker/Message/Parser.java" />
+        <option value="$PROJECT_DIR$/fix-me-router/src/main/java/com/wethinkcode/fixme/router/Server/ConnectionHandler.java" />
+        <option value="$PROJECT_DIR$/fix-me-core/src/main/java/com/wethinkcode/fixme/core/Core.java" />
+        <option value="$PROJECT_DIR$/fix-me-market/src/main/java/com/wethinkcode/fixme/market/Message/Parser.java" />
+        <option value="$PROJECT_DIR$/fix-me-router/src/main/java/com/wethinkcode/fixme/router/Messages/ReadWriteHandler.java" />
+        <option value="$PROJECT_DIR$/fix-me-broker/src/main/java/com/wethinkcode/fixme/broker/Handlers/ReadWriteHandler.java" />
+        <option value="$PROJECT_DIR$/fix-me-market/src/main/java/com/wethinkcode/fixme/market/Handlers/ReadWriteHandler.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="6" />
+    <option name="width" value="1600" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="FixMe" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Fix-Me" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FixMe" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Fix-Me" type="462c0819:PsiDirectoryNode" />
+              <item name="fix-me-broker" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FixMe" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Fix-Me" type="462c0819:PsiDirectoryNode" />
+              <item name="fix-me-broker" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FixMe" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Fix-Me" type="462c0819:PsiDirectoryNode" />
+              <item name="fix-me-broker" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FixMe" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Fix-Me" type="462c0819:PsiDirectoryNode" />
+              <item name="fix-me-broker" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FixMe" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Fix-Me" type="462c0819:PsiDirectoryNode" />
+              <item name="fix-me-broker" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="broker" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FixMe" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Fix-Me" type="462c0819:PsiDirectoryNode" />
+              <item name="fix-me-broker" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="broker" type="462c0819:PsiDirectoryNode" />
+              <item name="Attachment" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FixMe" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Fix-Me" type="462c0819:PsiDirectoryNode" />
+              <item name="fix-me-broker" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="broker" type="462c0819:PsiDirectoryNode" />
+              <item name="Handlers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FixMe" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Fix-Me" type="462c0819:PsiDirectoryNode" />
+              <item name="fix-me-broker" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="broker" type="462c0819:PsiDirectoryNode" />
+              <item name="Message" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FixMe" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Fix-Me" type="462c0819:PsiDirectoryNode" />
+              <item name="fix-me-core" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FixMe" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Fix-Me" type="462c0819:PsiDirectoryNode" />
+              <item name="fix-me-core" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FixMe" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Fix-Me" type="462c0819:PsiDirectoryNode" />
+              <item name="fix-me-core" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FixMe" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Fix-Me" type="462c0819:PsiDirectoryNode" />
+              <item name="fix-me-core" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FixMe" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Fix-Me" type="462c0819:PsiDirectoryNode" />
+              <item name="fix-me-core" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FixMe" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Fix-Me" type="462c0819:PsiDirectoryNode" />
+              <item name="fix-me-core" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="Instrument" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FixMe" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Fix-Me" type="462c0819:PsiDirectoryNode" />
+              <item name="fix-me-core" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="Message" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FixMe" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Fix-Me" type="462c0819:PsiDirectoryNode" />
+              <item name="fix-me-market" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FixMe" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Fix-Me" type="462c0819:PsiDirectoryNode" />
+              <item name="fix-me-market" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FixMe" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Fix-Me" type="462c0819:PsiDirectoryNode" />
+              <item name="fix-me-market" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FixMe" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Fix-Me" type="462c0819:PsiDirectoryNode" />
+              <item name="fix-me-market" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FixMe" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Fix-Me" type="462c0819:PsiDirectoryNode" />
+              <item name="fix-me-market" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="market" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FixMe" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Fix-Me" type="462c0819:PsiDirectoryNode" />
+              <item name="fix-me-market" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="market" type="462c0819:PsiDirectoryNode" />
+              <item name="Attachment" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FixMe" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Fix-Me" type="462c0819:PsiDirectoryNode" />
+              <item name="fix-me-market" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="market" type="462c0819:PsiDirectoryNode" />
+              <item name="Handlers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FixMe" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Fix-Me" type="462c0819:PsiDirectoryNode" />
+              <item name="fix-me-market" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="market" type="462c0819:PsiDirectoryNode" />
+              <item name="Message" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FixMe" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Fix-Me" type="462c0819:PsiDirectoryNode" />
+              <item name="fix-me-router" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FixMe" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Fix-Me" type="462c0819:PsiDirectoryNode" />
+              <item name="fix-me-router" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FixMe" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Fix-Me" type="462c0819:PsiDirectoryNode" />
+              <item name="fix-me-router" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FixMe" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Fix-Me" type="462c0819:PsiDirectoryNode" />
+              <item name="fix-me-router" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FixMe" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Fix-Me" type="462c0819:PsiDirectoryNode" />
+              <item name="fix-me-router" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="router" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FixMe" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Fix-Me" type="462c0819:PsiDirectoryNode" />
+              <item name="fix-me-router" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="router" type="462c0819:PsiDirectoryNode" />
+              <item name="Attachment" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FixMe" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Fix-Me" type="462c0819:PsiDirectoryNode" />
+              <item name="fix-me-router" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="router" type="462c0819:PsiDirectoryNode" />
+              <item name="Messages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FixMe" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Fix-Me" type="462c0819:PsiDirectoryNode" />
+              <item name="fix-me-router" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="router" type="462c0819:PsiDirectoryNode" />
+              <item name="Server" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546707078404" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/fix-me-master" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Broker">
+    <configuration name="Broker" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wethinkcode.fixme.broker.Broker" />
+      <module name="fix-me-broker" />
+      <option name="PROGRAM_PARAMETERS" value="1000001 5 3 60 Buy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wethinkcode.fixme.broker.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Market" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wethinkcode.fixme.market.Market" />
+      <module name="fix-me-market" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wethinkcode.fixme.market.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Router" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.wethinkcode.fixme.router.Router" />
+      <module name="fix-me-router" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Market" />
+      <item itemvalue="Application.Router" />
+      <item itemvalue="Application.Broker" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9debfa50-df50-488c-bd7f-3ba0caacd8d2" name="Default Changelist" comment="" />
+      <created>1545234495295</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1545234495295</updated>
+      <workItem from="1545234507051" duration="1804000" />
+      <workItem from="1545237481335" duration="1024000" />
+      <workItem from="1545374779695" duration="719000" />
+      <workItem from="1545821000777" duration="155000" />
+      <workItem from="1545821403231" duration="5720000" />
+      <workItem from="1545901689941" duration="6938000" />
+      <workItem from="1545916926296" duration="1493000" />
+      <workItem from="1545979255853" duration="6196000" />
+      <workItem from="1546016194267" duration="3391000" />
+      <workItem from="1546073083088" duration="8832000" />
+      <workItem from="1546150845412" duration="1793000" />
+      <workItem from="1546155521275" duration="20554000" />
+      <workItem from="1546195428322" duration="3602000" />
+      <workItem from="1546199225365" duration="1612000" />
+      <workItem from="1546242571455" duration="4398000" />
+      <workItem from="1546419769810" duration="587000" />
+      <workItem from="1546422935273" duration="1958000" />
+      <workItem from="1546426111597" duration="7221000" />
+      <workItem from="1546437667866" duration="3738000" />
+      <workItem from="1546448254246" duration="259000" />
+      <workItem from="1546520125627" duration="2811000" />
+      <workItem from="1546533604846" duration="6488000" />
+      <workItem from="1546585452914" duration="1700000" />
+      <workItem from="1546592410574" duration="16798000" />
+      <workItem from="1546619036750" duration="844000" />
+      <workItem from="1546678454956" duration="13493000" />
+      <workItem from="1546693971765" duration="1592000" />
+      <workItem from="1546702928779" duration="4119000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="129839000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4990792" visible="true" weight="0.34897172" />
+      <window_info id="Structure" order="1" sideWeight="0.50092083" side_tool="true" weight="0.30912596" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.50092083" side_tool="true" weight="0.30912596" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32884097" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4993573" weight="0.32884097" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39892185" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32884097" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50064266" side_tool="true" weight="0.26819408" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32614556" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2927383" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32884097" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.31639344" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39892185" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32884097" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32786885" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/FixMe.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="20" selection-start-column="20" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fix-me-broker/src/main/java/com/wethinkcode/fixme/broker/Messages/Messages.java" />
+    <entry file="file://$PROJECT_DIR$/fix-me-broker/src/main/java/com/wethinkcode/fixme/broker/Handlers/ConnectionHandler.java" />
+    <entry file="file://$PROJECT_DIR$/fix-me-core/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fix-me-router/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="35" column="4" selection-start-line="35" selection-start-column="4" selection-end-line="42" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fix-me-broker/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="42" column="19" selection-start-line="42" selection-start-column="19" selection-end-line="42" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fix-me-market/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="59" selection-start-line="15" selection-start-column="59" selection-end-line="15" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fix-me-broker/src/main/java/com/wethinkcode/fixme/broker/Attachment/Attachment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="11" column="23" lean-forward="true" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fix-me-market/src/main/java/com/wethinkcode/fixme/market/Attachment/Attachment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fix-me-core/src/main/java/com/wethinkcode/fixme/core/Message/Message.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="52" selection-start-line="7" selection-start-column="52" selection-end-line="7" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fix-me-core/src/main/java/com/wethinkcode/fixme/core/Instrument/InstrumentController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fix-me-core/src/main/java/com/wethinkcode/fixme/core/Instrument/Instrument.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fix-me-market/src/main/java/com/wethinkcode/fixme/market/Handlers/MarketHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="850">
+          <caret line="54" column="20" selection-start-line="54" selection-start-column="20" selection-end-line="54" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fix-me-market/src/main/java/com/wethinkcode/fixme/market/Market.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="52" column="12" selection-start-line="52" selection-start-column="12" selection-end-line="52" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fix-me-router/src/main/java/com/wethinkcode/fixme/router/Messages/Forward.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fix-me-broker/src/main/java/com/wethinkcode/fixme/broker/Broker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="82">
+          <caret line="26" column="17" lean-forward="true" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fix-me-router/src/main/java/com/wethinkcode/fixme/router/Router.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="18" column="30" lean-forward="true" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fix-me-broker/src/main/java/com/wethinkcode/fixme/broker/Handlers/BrokerHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="21" column="33" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fix-me-broker/src/main/java/com/wethinkcode/fixme/broker/Message/Parser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="28" column="57" lean-forward="true" selection-start-line="28" selection-start-column="57" selection-end-line="28" selection-end-column="57" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fix-me-router/src/main/java/com/wethinkcode/fixme/router/Attachment/Attachment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fix-me-router/src/main/java/com/wethinkcode/fixme/router/Server/Server.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fix-me-router/src/main/java/com/wethinkcode/fixme/router/Server/ConnectionHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="52" selection-start-line="52" selection-end-line="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fix-me-router/src/main/java/com/wethinkcode/fixme/router/Messages/Parser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="16" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fix-me-core/src/main/java/com/wethinkcode/fixme/core/Core.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fix-me-market/src/main/java/com/wethinkcode/fixme/market/Message/Parser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fix-me-router/src/main/java/com/wethinkcode/fixme/router/Messages/ReadWriteHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="28" column="12" selection-start-line="28" selection-start-column="12" selection-end-line="29" selection-end-column="64" />
+          <folding>
+            <element signature="e#1648#1649#0" expanded="true" />
+            <element signature="e#1685#1686#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fix-me-broker/src/main/java/com/wethinkcode/fixme/broker/Handlers/ReadWriteHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="18" column="12" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fix-me-market/src/main/java/com/wethinkcode/fixme/market/Handlers/ReadWriteHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="32" column="5" lean-forward="true" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+          <folding>
+            <element signature="e#1962#1963#0" expanded="true" />
+            <element signature="e#1999#2000#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>JDK-1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>fix-me-broker</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

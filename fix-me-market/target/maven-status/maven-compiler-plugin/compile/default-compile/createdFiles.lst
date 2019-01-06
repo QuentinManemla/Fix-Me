@@ -1,0 +1,5 @@
+com\wethinkcode\fixme\market\Market.class
+com\wethinkcode\fixme\market\Message\Parser.class
+com\wethinkcode\fixme\market\Handlers\ReadWriteHandler.class
+com\wethinkcode\fixme\market\Attachment\Attachment.class
+com\wethinkcode\fixme\market\Handlers\MarketHandler.class
