@@ -1,7 +1,0 @@
-com\wethinkcode\fixme\router\Server\Server.class
-com\wethinkcode\fixme\router\Attachment\Attachment.class
-com\wethinkcode\fixme\router\Router.class
-com\wethinkcode\fixme\router\Server\ConnectionHandler.class
-com\wethinkcode\fixme\router\Messages\Parser.class
-com\wethinkcode\fixme\router\Messages\ReadWriteHandler.class
-com\wethinkcode\fixme\router\Messages\Forward.class
