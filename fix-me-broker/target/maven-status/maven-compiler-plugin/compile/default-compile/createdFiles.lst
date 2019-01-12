@@ -1,0 +1,5 @@
+com/wethinkcode/fixme/broker/Handlers/ReadWriteHandler.class
+com/wethinkcode/fixme/broker/Broker.class
+com/wethinkcode/fixme/broker/Attachment/Attachment.class
+com/wethinkcode/fixme/broker/Message/Parser.class
+com/wethinkcode/fixme/broker/Handlers/BrokerHandler.class

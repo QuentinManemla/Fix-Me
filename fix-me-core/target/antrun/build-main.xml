@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<project name="maven-antrun-" default="main"  >
+<target name="main">
+  <echo>ANT TASK - copying files....</echo>
+  <copy flatten="true" todir="/goinfre/qmanamel/Desktop/IdeaProjects/Fix-Me/fix-me-core/../fix-me-router/repo/fix-me-core/fix-me-core/1.0-SNAPSHOT" overwrite="true">
+    <fileset includes="*.jar" dir="/goinfre/qmanamel/Desktop/IdeaProjects/Fix-Me/fix-me-core/target/">
+      <include name="target/*.jar"/>
+    </fileset>
+  </copy>
+  <echo>ANT TASK - copying files....</echo>
+  <copy flatten="true" todir="/goinfre/qmanamel/Desktop/IdeaProjects/Fix-Me/fix-me-core/../fix-me-broker/repo/fix-me-core/fix-me-core/1.0-SNAPSHOT" overwrite="true">
+    <fileset includes="*.jar" dir="/goinfre/qmanamel/Desktop/IdeaProjects/Fix-Me/fix-me-core/target/">
+      <include name="target/*.jar"/>
+    </fileset>
+  </copy>
+  <echo>ANT TASK - copying files....</echo>
+  <copy flatten="true" todir="/goinfre/qmanamel/Desktop/IdeaProjects/Fix-Me/fix-me-core\..\fix-me-market\repo\fix-me-core\fix-me-core\1.0-SNAPSHOT" overwrite="true">
+    <fileset includes="*.jar" dir="/goinfre/qmanamel/Desktop/IdeaProjects/Fix-Me/fix-me-core\target\">
+      <include name="target\*.jar"/>
+    </fileset>
+  </copy>
+</target>
+</project>
